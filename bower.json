@@ -1,0 +1,13 @@
+{
+  "name": "md-icon-material",
+  "description": "Material Design icon set for Angular Material",
+  "version": "0.0.1",
+  "author": [
+    {
+      "name": "Alireza Mirian",
+      "email": "alireza.mirian@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/alirezamirian/md-icon-material",
+  "license": "MIT"
+}
